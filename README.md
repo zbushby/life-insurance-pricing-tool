@@ -1,11 +1,11 @@
-# Insurance Product Valuation Tool
+# Life Insurance Product Valuation Tool
 
 This repository contains the R Shiny application for calculating premiums and reserves of various insurance products. The tool allows for input of policyholder details, contract terms, and expense factors, and calculates the expected premium or reserve using actuarial present value methods.
 
 ## Web Application
 
 The Shiny web application is hosted and can be accessed at:
-[Insurance Product Valuation Tool](https://9ckwl1-zachary-bushby.shinyapps.io/Assignment/)
+[Life Insurance Product Valuation Tool](https://9ckwl1-zachary-bushby.shinyapps.io/Assignment/)
 
 ## Features
 
