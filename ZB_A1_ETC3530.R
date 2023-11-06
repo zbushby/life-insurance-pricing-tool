@@ -9,8 +9,8 @@ library(shinyWidgets)
 library(shinythemes)
 library(shinyjs)
 rsconnect::setAccountInfo(name='9ckwl1-zachary-bushby',
-                          token='29CE7D1CFEC88D3AE41C6952710F6845',
-                          secret='GK1vXzCquwSdI53v44Cv9/v1CATz1DzVd90vaGB8')
+                          token='token',
+                          secret='secret')
 
 
 
