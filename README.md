@@ -2,6 +2,8 @@
 
 This repository contains the R Shiny application for calculating premiums and reserves of various insurance products. The tool allows for input of policyholder details, contract terms, and expense factors, and calculates the expected premium or reserve using actuarial present value methods.
 
+![DALL_E](Img/DALL_E.png)
+
 ## Web Application
 
 The Shiny web application is hosted and can be accessed at:
